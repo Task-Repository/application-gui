@@ -6,7 +6,10 @@
             "extensions": [
                 "github.copilot",
                 "wix.vscode-import-cost",
+                "esbenp.prettier-vscode",
+                "vue.volar"
             ]
         }
-    }
+    },
+    "postCreateCommand": "npm i && npm i -g @quasar/cli"
 }
