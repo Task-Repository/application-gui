@@ -1,0 +1,12 @@
+{
+    "name": "task-repo-gui",
+    "image": "node:18",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "github.copilot",
+                "wix.vscode-import-cost",
+            ]
+        }
+    }
+}
