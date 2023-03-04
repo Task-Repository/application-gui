@@ -1,6 +1,6 @@
 # Task Repository (task-repository)
 
-Manage Technical Projects and Documentation with ease
+Manage Technical Projects and Documentation with ease.
 
 ## Install the dependencies
 ```bash
