@@ -1,13 +1,16 @@
 {
     "name": "task-repo-gui",
-    "image": "node:18",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
     "customizations": {
         "vscode": {
             "extensions": [
                 "github.copilot",
                 "wix.vscode-import-cost",
                 "esbenp.prettier-vscode",
-                "vue.volar"
+                "vue.volar",
+                "github.vscode-pull-request-github"
             ]
         }
     },
