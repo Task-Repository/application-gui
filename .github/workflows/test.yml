@@ -12,6 +12,6 @@ jobs:
         with:
           node-version: 18
       - run: npm ci
-      - run: npm run build
+      - run: quasar build
       - run: npm run test:e2e:ci
       - run: npm run test:unit:ci
