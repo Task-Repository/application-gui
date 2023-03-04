@@ -14,7 +14,6 @@ npm install
 quasar dev
 ```
 
-
 ### Lint the files
 ```bash
 yarn lint
@@ -29,8 +28,6 @@ yarn format
 # or
 npm run format
 ```
-
-
 
 ### Build the app for production
 ```bash
