@@ -3,3 +3,4 @@ This directory contains mockups for the project. The mockups are created using [
 
 ## Adding diagrams
 
+/workspaces/application-gui/mockups/Untitled Diagram.drawio
