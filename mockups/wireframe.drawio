@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T07:02:26.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="g_YNfLoJ6XCytXfL--nP" version="21.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-10T07:03:51.213Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="BvO_yZdAvHEZjDwpPP-k" version="21.0.4" type="github" pages="5">
   <diagram name="Home Page" id="c2ozPzMcLGsY91cr0GHX">
     <mxGraphModel dx="2074" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -661,6 +661,15 @@
         </mxCell>
         <mxCell id="wZkotLb71Mllrrh_LJ4G-1" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1080" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t-g91g_SeSxxf2ktM8Pz-1" value="Manage" style="strokeWidth=2;shadow=0;dashed=0;align=center;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=12;fontStyle=1;fillColor=#008cff;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="253.5" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="t-g91g_SeSxxf2ktM8Pz-2" value="Manage" style="strokeWidth=2;shadow=0;dashed=0;align=center;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=12;fontStyle=1;fillColor=#008cff;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="253.5" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="t-g91g_SeSxxf2ktM8Pz-3" value="Manage" style="strokeWidth=2;shadow=0;dashed=0;align=center;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=12;fontStyle=1;fillColor=#008cff;verticalAlign=middle;horizontal=1;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282" y="371.5" width="60" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
